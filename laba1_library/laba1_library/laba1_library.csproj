@@ -1,0 +1,11 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <GenerateDocumentationFile>True</GenerateDocumentationFile>
+    <DocumentationFile>C:\Users\мси\Desktop\Лабы\3 сем\OOП\Laba 1\laba1_library\laba1_library\bin\Debug\net6.0\laba1_library.xml</DocumentationFile>
+  </PropertyGroup>
+
+</Project>

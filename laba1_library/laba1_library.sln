@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "laba1_library", "laba1_library\laba1_library.csproj", "{CDBAAE56-02E3-48E3-9CA5-97A1E3FE7118}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Элементы решения", "Элементы решения", "{055908D7-D9E0-4E76-A34B-E7D6A10439EB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "laba1", "..\laba1\laba1\laba1.csproj", "{A45036C2-6C39-4338-89DE-73AF7F7893CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CDBAAE56-02E3-48E3-9CA5-97A1E3FE7118}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDBAAE56-02E3-48E3-9CA5-97A1E3FE7118}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDBAAE56-02E3-48E3-9CA5-97A1E3FE7118}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDBAAE56-02E3-48E3-9CA5-97A1E3FE7118}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A45036C2-6C39-4338-89DE-73AF7F7893CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A45036C2-6C39-4338-89DE-73AF7F7893CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A45036C2-6C39-4338-89DE-73AF7F7893CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A45036C2-6C39-4338-89DE-73AF7F7893CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5F889A2A-3706-4A69-9FD4-4ACD7DDC497E}
+	EndGlobalSection
+EndGlobal
